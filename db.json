@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "name": "Ruslan",
+      "surname": "Midin",
+      "phone": "123578949999",
+      "id": 1
+    },
+    {
+      "name": "Angelina",
+      "surname": "Jolie",
+      "phone": "354849595555",
+      "id": 2
+    },
+    {
+      "name": "Brad",
+      "surname": "Pitt",
+      "phone": "449595857475",
+      "id": 3
+    },
+    {
+      "name": "Vincent",
+      "surname": "Laurent",
+      "phone": "333393393391",
+      "id": 4
+    },
+    {
+      "name": "Rouslan",
+      "surname": "Mi",
+      "phone": "497990000099",
+      "id": 5
+    },
+    {
+      "name": "Giorgio",
+      "surname": "Armani",
+      "phone": "393990003339",
+      "id": 6
+    },
+    {
+      "name": "Sebastian",
+      "surname": "Kurz",
+      "phone": "434443334333",
+      "id": 7
+    },
+    {
+      "name": "Anna",
+      "surname": "Kurnikova",
+      "phone": "395757585958",
+      "id": 8
+    },
+    {
+      "name": "Ruslan",
+      "surname": "Ruslanov",
+      "phone": "971958757585",
+      "id": 9
+    },
+    {
+      "name": "Louise",
+      "surname": "Dexter",
+      "phone": "3194764748494",
+      "id": 10
+    }
+  ]
+}
