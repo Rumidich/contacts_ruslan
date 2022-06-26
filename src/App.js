@@ -61,6 +61,7 @@ const App = () => {
               contacts={contacts}
               getContacts={getContacts}
               getOneContact={getOneContact}
+              deleteContact={deleteContact}
             />
           }
         />
